@@ -1,4 +1,4 @@
-# 🧮 Simple Python Calculator
+# 🧮 Simple Python Calculator 
 
 A beginner-friendly **command-line calculator** written in Python.  
 This calculator performs basic arithmetic operations: **Addition, Subtraction, Multiplication, and Division**.
